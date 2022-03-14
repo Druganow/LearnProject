@@ -1,0 +1,28 @@
+C:\Users\student\Desktop\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\student\Desktop\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Users\student\Desktop\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Users\student\Desktop\Lab5\Lab5\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Lab5\Lab5\obj\Debug\Lab5.GRedactorForm.resources
+C:\Users\student\Desktop\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+C:\Users\student\Desktop\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\student\Desktop\Lab5\Lab5\obj\Debug\Lab5.pdb
+C:\Users\student\Desktop\Lab51\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\student\Desktop\Lab51\Lab5\obj\Debug\Lab5.exe
+C:\Users\student\Desktop\Lab51\Lab5\obj\Debug\Lab5.pdb
+C:\Users\student\Desktop\Lab51\Lab5\bin\Debug\Lab5.exe
+C:\Users\student\Desktop\Lab51\Lab5\bin\Debug\Lab5.pdb
+C:\Users\student\Desktop\Lab51\Lab5\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Lab51\Lab5\obj\Debug\Lab5.GRedactorForm.resources
+C:\Users\student\Desktop\Lab51\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+C:\Users\student\Desktop\Lab51\Lab5\obj\Debug\Lab5.csproj.GenerateResource.Cache
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\OOP\Lab51\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\OOP\Lab51\Lab5\bin\Debug\Lab5.exe
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\OOP\Lab51\Lab5\bin\Debug\Lab5.pdb
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\OOP\Lab51\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\OOP\Lab51\Lab5\obj\Debug\Lab5.GRedactorForm.resources
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\OOP\Lab51\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\OOP\Lab51\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\OOP\Lab51\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\OOP\Lab51\Lab5\obj\Debug\Lab5.exe
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\OOP\Lab51\Lab5\obj\Debug\Lab5.pdb

@@ -1,0 +1,21 @@
+C:\Users\Администратор\Desktop\Лаб1\Лаб1\bin\Debug\Лаб1.exe.config
+C:\Users\Администратор\Desktop\Лаб1\Лаб1\bin\Debug\Лаб1.exe
+C:\Users\Администратор\Desktop\Лаб1\Лаб1\bin\Debug\Лаб1.pdb
+C:\Users\Администратор\Desktop\Лаб1\Лаб1\obj\Debug\Лаб1.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\Лаб1\Лаб1\obj\Debug\Лаб1.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Лаб1\Лаб1\obj\Debug\Лаб1.exe
+C:\Users\Администратор\Desktop\Лаб1\Лаб1\obj\Debug\Лаб1.pdb
+C:\Users\Администратор\Desktop\Вычислительная геометрияЛаб1\Лаб1\bin\Debug\Лаб1.exe.config
+C:\Users\Администратор\Desktop\Вычислительная геометрияЛаб1\Лаб1\bin\Debug\Лаб1.exe
+C:\Users\Администратор\Desktop\Вычислительная геометрияЛаб1\Лаб1\bin\Debug\Лаб1.pdb
+C:\Users\Администратор\Desktop\Вычислительная геометрияЛаб1\Лаб1\obj\Debug\Лаб1.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\Вычислительная геометрияЛаб1\Лаб1\obj\Debug\Лаб1.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Вычислительная геометрияЛаб1\Лаб1\obj\Debug\Лаб1.exe
+C:\Users\Администратор\Desktop\Вычислительная геометрияЛаб1\Лаб1\obj\Debug\Лаб1.pdb
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\Графика\Вычислительная геометрияЛаб1\Лаб1\bin\Debug\Лаб1.exe.config
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\Графика\Вычислительная геометрияЛаб1\Лаб1\bin\Debug\Лаб1.exe
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\Графика\Вычислительная геометрияЛаб1\Лаб1\bin\Debug\Лаб1.pdb
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\Графика\Вычислительная геометрияЛаб1\Лаб1\obj\Debug\Лаб1.csproj.AssemblyReference.cache
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\Графика\Вычислительная геометрияЛаб1\Лаб1\obj\Debug\Лаб1.csproj.CoreCompileInputs.cache
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\Графика\Вычислительная геометрияЛаб1\Лаб1\obj\Debug\Лаб1.exe
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\Графика\Вычислительная геометрияЛаб1\Лаб1\obj\Debug\Лаб1.pdb

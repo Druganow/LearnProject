@@ -1,0 +1,52 @@
+Graphics Graph;
+Pen MyPen;
+___________________________________________________________
+
+            _X = (int)this.ClientSize.Width;
+            _Y = (int)this.ClientSize.Height;
+
+____________________________________________________________
+
+
+
+
+ 	    Graph.Clear(Color.White);
+            int dx, dy, xc, yc, vxc;
+            int N = 50;
+            xc = 1;
+            yc = _Y / 2;
+            vxc = 6;
+            Random Rand = new Random();
+            int[] vX = new int[N];
+            int[] vY = new int[N];
+            int[] X = new int[N];
+            int[] Y = new int[N];
+            for (int i = 0; i < N; i++)
+            {
+                X[i] = Rand.Next(_X);
+                Y[i] = Rand.Next(_Y);
+            }
+            while (true)
+            {
+                if (xc > _X|| xc < 0) vxc = -vxc;
+                xc += vxc;
+                for (int i = 0; i < N; i++)
+                {
+                    dx = -25 + Rand.Next(51);
+                    dy = -25 + Rand.Next(51);
+                    Graph.DrawRectangle(new Pen(Color.White, 2), X[i], Y[i], 1, 1);
+                    if (X[i] + dx > 0 && X[i] + dx < _X)
+                    {
+                        if (X[i] + dx < xc) dx += 5;
+                        else dx -= 5;
+                        X[i] += dx;
+                    }
+                    if (Y[i] + dy > 0 && Y[i] + dy < _Y)
+                    {
+                        if (Y[i] + dy < yc) dy += 5;
+                        else dy -= 5;
+                        Y[i] += dy;
+                    }
+                    Graph.DrawRectangle(new Pen(Color.Black,2), X[i], Y[i],1,  1);
+                }
+            }

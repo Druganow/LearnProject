@@ -1,0 +1,10 @@
+E:\6 семестр\Мат моделирование\Lab4.  Игра жизнь\Lab4.  Игра жизнь\bin\Debug\Lab4.Игра_жизнь.exe.config
+E:\6 семестр\Мат моделирование\Lab4.  Игра жизнь\Lab4.  Игра жизнь\bin\Debug\Lab4.Игра_жизнь.exe
+E:\6 семестр\Мат моделирование\Lab4.  Игра жизнь\Lab4.  Игра жизнь\bin\Debug\Lab4.Игра_жизнь.pdb
+E:\6 семестр\Мат моделирование\Lab4.  Игра жизнь\Lab4.  Игра жизнь\obj\Debug\Lab4.  Игра жизнь.csprojAssemblyReference.cache
+E:\6 семестр\Мат моделирование\Lab4.  Игра жизнь\Lab4.  Игра жизнь\obj\Debug\Lab4.Игра_жизнь.Form1.resources
+E:\6 семестр\Мат моделирование\Lab4.  Игра жизнь\Lab4.  Игра жизнь\obj\Debug\Lab4.Игра_жизнь.Properties.Resources.resources
+E:\6 семестр\Мат моделирование\Lab4.  Игра жизнь\Lab4.  Игра жизнь\obj\Debug\Lab4.  Игра жизнь.csproj.GenerateResource.cache
+E:\6 семестр\Мат моделирование\Lab4.  Игра жизнь\Lab4.  Игра жизнь\obj\Debug\Lab4.  Игра жизнь.csproj.CoreCompileInputs.cache
+E:\6 семестр\Мат моделирование\Lab4.  Игра жизнь\Lab4.  Игра жизнь\obj\Debug\Lab4.Игра_жизнь.exe
+E:\6 семестр\Мат моделирование\Lab4.  Игра жизнь\Lab4.  Игра жизнь\obj\Debug\Lab4.Игра_жизнь.pdb

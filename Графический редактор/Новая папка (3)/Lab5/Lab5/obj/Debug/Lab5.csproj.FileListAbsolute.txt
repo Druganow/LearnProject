@@ -1,0 +1,49 @@
+H:\ООП\форма\Lab5\Lab5\bin\Debug\Lab5.exe.config
+H:\ООП\форма\Lab5\Lab5\obj\Debug\Lab5.GRedactorForm.resources
+H:\ООП\форма\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+H:\ООП\форма\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.Cache
+H:\ООП\форма\Lab5\Lab5\bin\Debug\Lab5.exe
+H:\ООП\форма\Lab5\Lab5\bin\Debug\Lab5.pdb
+H:\ООП\форма\Lab5\Lab5\obj\Debug\Lab5.exe
+H:\ООП\форма\Lab5\Lab5\obj\Debug\Lab5.pdb
+D:\ООП\форма\Lab5\Lab5\bin\Debug\Lab5.exe.config
+D:\ООП\форма\Lab5\Lab5\obj\Debug\Lab5.exe
+D:\ООП\форма\Lab5\Lab5\obj\Debug\Lab5.pdb
+D:\ООП\форма\Lab5\Lab5\bin\Debug\Lab5.exe
+D:\ООП\форма\Lab5\Lab5\bin\Debug\Lab5.pdb
+D:\ООП\форма\Lab5\Lab5\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
+D:\ООП\форма\Lab5\Lab5\obj\Debug\Lab5.GRedactorForm.resources
+D:\ООП\форма\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+D:\ООП\форма\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.Cache
+H:\ООП\форма\Lab5\Lab5\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
+C:\Users\frost\Desktop\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\frost\Desktop\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Users\frost\Desktop\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Users\frost\Desktop\Lab5\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+C:\Users\frost\Desktop\Lab5\Lab5\obj\Debug\Lab5.GRedactorForm.resources
+C:\Users\frost\Desktop\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+C:\Users\frost\Desktop\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+C:\Users\frost\Desktop\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\frost\Desktop\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\frost\Desktop\Lab5\Lab5\obj\Debug\Lab5.pdb
+D:\Lab5\Lab5\bin\Debug\Lab5.exe.config
+D:\Lab5\Lab5\obj\Debug\Lab5.exe
+D:\Lab5\Lab5\obj\Debug\Lab5.pdb
+D:\Lab5\Lab5\bin\Debug\Lab5.exe
+D:\Lab5\Lab5\bin\Debug\Lab5.pdb
+D:\Lab5\Lab5\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
+D:\Lab5\Lab5\obj\Debug\Lab5.GRedactorForm.resources
+D:\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+D:\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\Новая папка (3)\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\student\Desktop\Новая папка (3)\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\student\Desktop\Новая папка (3)\Lab5\Lab5\obj\Debug\Lab5.pdb
+C:\Users\student\Desktop\Lab51\Новая папка (3)\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\student\Desktop\Lab51\Новая папка (3)\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\student\Desktop\Lab51\Новая папка (3)\Lab5\Lab5\obj\Debug\Lab5.pdb
+C:\Users\student\Desktop\Lab51\Новая папка (3)\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Users\student\Desktop\Lab51\Новая папка (3)\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Users\student\Desktop\Lab51\Новая папка (3)\Lab5\Lab5\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Lab51\Новая папка (3)\Lab5\Lab5\obj\Debug\Lab5.GRedactorForm.resources
+C:\Users\student\Desktop\Lab51\Новая папка (3)\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+C:\Users\student\Desktop\Lab51\Новая папка (3)\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.Cache

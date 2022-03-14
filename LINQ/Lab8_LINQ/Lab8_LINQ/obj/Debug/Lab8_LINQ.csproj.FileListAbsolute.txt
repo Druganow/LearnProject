@@ -1,0 +1,13 @@
+D:\Документы\ВятГУ\ООП\Lab8_LINQ\Lab8_LINQ\Lab8_LINQ\bin\Debug\Lab8_LINQ.exe.config
+D:\Документы\ВятГУ\ООП\Lab8_LINQ\Lab8_LINQ\Lab8_LINQ\bin\Debug\Lab8_LINQ.exe
+D:\Документы\ВятГУ\ООП\Lab8_LINQ\Lab8_LINQ\Lab8_LINQ\bin\Debug\Lab8_LINQ.pdb
+D:\Документы\ВятГУ\ООП\Lab8_LINQ\Lab8_LINQ\Lab8_LINQ\obj\Debug\Lab8_LINQ.csproj.CoreCompileInputs.cache
+D:\Документы\ВятГУ\ООП\Lab8_LINQ\Lab8_LINQ\Lab8_LINQ\obj\Debug\Lab8_LINQ.exe
+D:\Документы\ВятГУ\ООП\Lab8_LINQ\Lab8_LINQ\Lab8_LINQ\obj\Debug\Lab8_LINQ.pdb
+C:\Users\Администратор\Desktop\Lab8_LINQ\Lab8_LINQ\Lab8_LINQ\bin\Debug\Lab8_LINQ.exe.config
+C:\Users\Администратор\Desktop\Lab8_LINQ\Lab8_LINQ\Lab8_LINQ\bin\Debug\Lab8_LINQ.exe
+C:\Users\Администратор\Desktop\Lab8_LINQ\Lab8_LINQ\Lab8_LINQ\bin\Debug\Lab8_LINQ.pdb
+C:\Users\Администратор\Desktop\Lab8_LINQ\Lab8_LINQ\Lab8_LINQ\obj\Debug\Lab8_LINQ.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\Lab8_LINQ\Lab8_LINQ\Lab8_LINQ\obj\Debug\Lab8_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Lab8_LINQ\Lab8_LINQ\Lab8_LINQ\obj\Debug\Lab8_LINQ.exe
+C:\Users\Администратор\Desktop\Lab8_LINQ\Lab8_LINQ\Lab8_LINQ\obj\Debug\Lab8_LINQ.pdb

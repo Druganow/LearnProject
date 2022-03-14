@@ -1,0 +1,41 @@
+C:\Users\Администратор\Desktop\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Администратор\Desktop\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\Администратор\Desktop\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Администратор\Desktop\Lab4\Lab4\obj\Debug\Lab4.AddForm.resources
+C:\Users\Администратор\Desktop\Lab4\Lab4\obj\Debug\Lab4.MainForm.resources
+C:\Users\Администратор\Desktop\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\Администратор\Desktop\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\Администратор\Desktop\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\Администратор\Desktop\Lab4\Lab4\obj\Debug\Lab4.SearchNameForm.resources
+C:\Users\Администратор\Desktop\Lab4\Lab4\obj\Debug\Lab4.SearchAdresForm.resources
+C:\Users\Администратор\Desktop\Lab4\Lab4\obj\Debug\Lab4.SearchPhoneNumber.resources
+C:\Users\Администратор\Desktop\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\student\Desktop\lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\student\Desktop\lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\student\Desktop\lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\student\Desktop\lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\student\Desktop\lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\lab4\Lab4\obj\Debug\Lab4.AddForm.resources
+C:\Users\student\Desktop\lab4\Lab4\obj\Debug\Lab4.MainForm.resources
+C:\Users\student\Desktop\lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\student\Desktop\lab4\Lab4\obj\Debug\Lab4.SearchAdresForm.resources
+C:\Users\student\Desktop\lab4\Lab4\obj\Debug\Lab4.SearchNameForm.resources
+C:\Users\student\Desktop\lab4\Lab4\obj\Debug\Lab4.SearchPhoneNumber.resources
+C:\Users\student\Desktop\lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.Cache
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\OOP\lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\OOP\lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\OOP\lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\OOP\lab4\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\OOP\lab4\Lab4\obj\Debug\Lab4.AddForm.resources
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\OOP\lab4\Lab4\obj\Debug\Lab4.MainForm.resources
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\OOP\lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\OOP\lab4\Lab4\obj\Debug\Lab4.SearchAdresForm.resources
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\OOP\lab4\Lab4\obj\Debug\Lab4.SearchNameForm.resources
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\OOP\lab4\Lab4\obj\Debug\Lab4.SearchPhoneNumber.resources
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\OOP\lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\OOP\lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\OOP\lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\OOP\lab4\Lab4\obj\Debug\Lab4.pdb

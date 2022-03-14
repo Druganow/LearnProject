@@ -1,0 +1,31 @@
+C:\Users\lyuts\OneDrive\Рабочий стол\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe.config
+E:\6 семестр\Мат моделирование\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe.config
+E:\6 семестр\Мат моделирование\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
+E:\6 семестр\Мат моделирование\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb
+E:\6 семестр\Мат моделирование\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csprojAssemblyReference.cache
+E:\6 семестр\Мат моделирование\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Form1.resources
+E:\6 семестр\Мат моделирование\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
+E:\6 семестр\Мат моделирование\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csproj.GenerateResource.cache
+E:\6 семестр\Мат моделирование\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csproj.CoreCompileInputs.cache
+E:\6 семестр\Мат моделирование\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.exe
+E:\6 семестр\Мат моделирование\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.pdb
+E:\6 семестр\Мат моделирование\Люсе\Lab1. Планеты\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe.config
+E:\6 семестр\Мат моделирование\Люсе\Lab1. Планеты\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
+E:\6 семестр\Мат моделирование\Люсе\Lab1. Планеты\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb
+E:\6 семестр\Мат моделирование\Люсе\Lab1. Планеты\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csprojAssemblyReference.cache
+E:\6 семестр\Мат моделирование\Люсе\Lab1. Планеты\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Form1.resources
+E:\6 семестр\Мат моделирование\Люсе\Lab1. Планеты\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
+E:\6 семестр\Мат моделирование\Люсе\Lab1. Планеты\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csproj.GenerateResource.cache
+E:\6 семестр\Мат моделирование\Люсе\Lab1. Планеты\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csproj.CoreCompileInputs.cache
+E:\6 семестр\Мат моделирование\Люсе\Lab1. Планеты\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.exe
+E:\6 семестр\Мат моделирование\Люсе\Lab1. Планеты\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.pdb
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\Математические модели\MM_L1_Planets\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe.config
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\Математические модели\MM_L1_Planets\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\Математические модели\MM_L1_Planets\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\Математические модели\MM_L1_Planets\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csproj.AssemblyReference.cache
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\Математические модели\MM_L1_Planets\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Form1.resources
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\Математические модели\MM_L1_Planets\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\Математические модели\MM_L1_Planets\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csproj.GenerateResource.cache
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\Математические модели\MM_L1_Planets\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csproj.CoreCompileInputs.cache
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\Математические модели\MM_L1_Planets\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.exe
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\Математические модели\MM_L1_Planets\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.pdb

@@ -1,0 +1,19 @@
+C:\Users\student\Desktop\График\bin\Debug\График.exe.config
+C:\Users\student\Desktop\График\bin\Debug\График.exe
+C:\Users\student\Desktop\График\bin\Debug\График.pdb
+C:\Users\student\Desktop\График\obj\Debug\График.csprojAssemblyReference.cache
+C:\Users\student\Desktop\График\obj\Debug\График.Form1.resources
+C:\Users\student\Desktop\График\obj\Debug\График.Properties.Resources.resources
+C:\Users\student\Desktop\График\obj\Debug\График.csproj.GenerateResource.cache
+C:\Users\student\Desktop\График\obj\Debug\График.exe
+C:\Users\student\Desktop\График\obj\Debug\График.pdb
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\Графика\График\bin\Debug\График.exe.config
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\Графика\График\bin\Debug\График.exe
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\Графика\График\bin\Debug\График.pdb
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\Графика\График\obj\Debug\График.csproj.AssemblyReference.cache
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\Графика\График\obj\Debug\График.Form1.resources
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\Графика\График\obj\Debug\График.Properties.Resources.resources
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\Графика\График\obj\Debug\График.csproj.GenerateResource.cache
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\Графика\График\obj\Debug\График.csproj.CoreCompileInputs.cache
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\Графика\График\obj\Debug\График.exe
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\Графика\График\obj\Debug\График.pdb

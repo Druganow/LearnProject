@@ -1,0 +1,20 @@
+C:\Users\Администратор\source\repos\Анимация\Анимация\obj\Debug\Анимация.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\source\repos\Анимация\Анимация\obj\Debug\Анимация.Form1.resources
+C:\Users\Администратор\source\repos\Анимация\Анимация\obj\Debug\Анимация.Properties.Resources.resources
+C:\Users\Администратор\source\repos\Анимация\Анимация\obj\Debug\Анимация.csproj.GenerateResource.Cache
+C:\Users\Администратор\source\repos\Анимация\Анимация\obj\Debug\Анимация.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\Анимация\Анимация\bin\Debug\Анимация.exe.config
+C:\Users\Администратор\source\repos\Анимация\Анимация\bin\Debug\Анимация.exe
+C:\Users\Администратор\source\repos\Анимация\Анимация\bin\Debug\Анимация.pdb
+C:\Users\Администратор\source\repos\Анимация\Анимация\obj\Debug\Анимация.exe
+C:\Users\Администратор\source\repos\Анимация\Анимация\obj\Debug\Анимация.pdb
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\Графика\Анимация\Анимация\bin\Debug\Анимация.exe.config
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\Графика\Анимация\Анимация\bin\Debug\Анимация.exe
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\Графика\Анимация\Анимация\bin\Debug\Анимация.pdb
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\Графика\Анимация\Анимация\obj\Debug\Анимация.csproj.AssemblyReference.cache
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\Графика\Анимация\Анимация\obj\Debug\Анимация.Form1.resources
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\Графика\Анимация\Анимация\obj\Debug\Анимация.Properties.Resources.resources
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\Графика\Анимация\Анимация\obj\Debug\Анимация.csproj.GenerateResource.cache
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\Графика\Анимация\Анимация\obj\Debug\Анимация.csproj.CoreCompileInputs.cache
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\Графика\Анимация\Анимация\obj\Debug\Анимация.exe
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\Графика\Анимация\Анимация\obj\Debug\Анимация.pdb

@@ -1,0 +1,108 @@
+using System;
+using System.Collections.Generic;
+
+namespace ConsoleApp1
+{
+	class Program
+	{
+		struct pt
+		{
+			public double x, y;
+		};
+
+		static bool cmp(pt a, pt b)
+		{
+			return a.x < b.x || a.x == b.x && a.y < b.y;
+		}
+
+		static bool cw(pt a, pt b, pt c)
+		{
+			return a.x * (b.y - c.y) + b.x * (c.y - a.y) + c.x * (a.y - b.y) < 0;
+		}
+
+		static bool ccw(pt a, pt b, pt c)
+		{
+			return a.x * (b.y - c.y) + b.x * (c.y - a.y) + c.x * (a.y - b.y) > 0;
+		}
+
+		static List<pt> Sort(List<pt> mas)
+		{
+			for (int i = 0; i < mas.Count; i++)
+			{
+				for (int j = i + 1; j < mas.Count; j++)
+				{
+					if (cmp(mas[i], mas[j]))
+					{
+						pt temp = mas[i];
+						mas[i] = mas[j];
+						mas[j] = temp;
+					}
+				}
+			}
+			return mas;
+		}
+
+		static void convex_hull(List<pt> a)
+		{
+			if (a.Count == 1) return;
+			a = Sort(a);
+			pt p1 = a[0], p2 = a[a.Count - 1];
+			List<pt> up = new List<pt>();
+			List<pt> down = new List<pt>();
+			up.Add(p1);
+			down.Add(p1);
+			for (int i = 1; i < a.Count; ++i)
+			{
+				if (i == a.Count - 1 || cw(p1, a[i], p2))
+				{
+					while (up.Count >= 2 && !cw(up[up.Count - 2], up[up.Count - 1], a[i]))
+						up.RemoveAt(up.Count - 1);
+					up.Add(a[i]);
+				}
+				if (i == a.Count - 1 || ccw(p1, a[i], p2))
+				{
+					while (down.Count >= 2 && !ccw(down[down.Count - 2], down[down.Count - 1], a[i]))
+						down.RemoveAt(down.Count - 1);
+					down.Add(a[i]);
+				}
+			}
+			a.Clear();
+			for (int i = 0; i < up.Count; ++i)
+				a.Add(up[i]);
+			for (int i = down.Count - 2; i > 0; --i)
+				a.Add(down[i]);
+			foreach (var item in a)
+			{
+				Console.WriteLine(item.x.ToString() + " " + item.y.ToString());
+			}
+
+		}
+
+		static void Main(string[] args)
+		{
+			do
+			{
+
+			}
+			while ();
+			pt w, e, r, t, k;
+			w.x = 0;
+			w.y = 0;
+			e.x = 0;
+			e.y = 5;
+			r.x = 5;
+			r.y = 5;
+			t.x = 5;
+			t.y = 0;
+			k.x = 3;
+			k.y = 3;
+			List<pt> Points = new List<pt>();
+			Points.Add(w);
+			Points.Add(e);
+			Points.Add(r);
+			Points.Add(t);
+			Points.Add(k);
+			convex_hull(Points);
+		}
+	}
+}

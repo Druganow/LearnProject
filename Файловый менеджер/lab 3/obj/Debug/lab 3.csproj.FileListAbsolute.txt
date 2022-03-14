@@ -1,0 +1,31 @@
+C:\Users\dryga\Desktop\lab 3\lab 3\bin\Debug\lab 3.exe.config
+C:\Users\dryga\Desktop\lab 3\lab 3\bin\Debug\lab 3.exe
+C:\Users\dryga\Desktop\lab 3\lab 3\bin\Debug\lab 3.pdb
+C:\Users\dryga\Desktop\lab 3\lab 3\obj\Debug\lab 3.csprojAssemblyReference.cache
+C:\Users\dryga\Desktop\lab 3\lab 3\obj\Debug\lab_3.MainForm.resources
+C:\Users\dryga\Desktop\lab 3\lab 3\obj\Debug\lab_3.Properties.Resources.resources
+C:\Users\dryga\Desktop\lab 3\lab 3\obj\Debug\lab 3.csproj.GenerateResource.cache
+C:\Users\dryga\Desktop\lab 3\lab 3\obj\Debug\lab 3.csproj.CoreCompileInputs.cache
+C:\Users\dryga\Desktop\lab 3\lab 3\obj\Debug\lab 3.exe
+C:\Users\dryga\Desktop\lab 3\lab 3\obj\Debug\lab 3.pdb
+C:\Users\dryga\Desktop\lab 3\lab 3\obj\Debug\lab_3.Form2.resources
+C:\Users\student\Desktop\lab 3\lab 3\bin\Debug\lab 3.exe.config
+C:\Users\student\Desktop\lab 3\lab 3\obj\Debug\lab 3.exe
+C:\Users\student\Desktop\lab 3\lab 3\obj\Debug\lab 3.pdb
+C:\Users\student\Desktop\lab 3\lab 3\obj\Debug\lab_3.Form2.resources
+C:\Users\student\Desktop\lab 3\lab 3\obj\Debug\lab_3.Properties.Resources.resources
+C:\Users\student\Desktop\lab 3\lab 3\obj\Debug\lab 3.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\lab 3\lab 3\obj\Debug\lab_3.Data.resources
+C:\Users\student\Desktop\lab 3\lab 3\bin\Debug\lab 3.exe
+C:\Users\student\Desktop\lab 3\lab 3\bin\Debug\lab 3.pdb
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\OOP\lab 3\lab 3\bin\Debug\lab 3.exe.config
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\OOP\lab 3\lab 3\bin\Debug\lab 3.exe
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\OOP\lab 3\lab 3\bin\Debug\lab 3.pdb
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\OOP\lab 3\lab 3\obj\Debug\lab 3.csproj.AssemblyReference.cache
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\OOP\lab 3\lab 3\obj\Debug\lab_3.MainForm.resources
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\OOP\lab 3\lab 3\obj\Debug\lab_3.Form2.resources
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\OOP\lab 3\lab 3\obj\Debug\lab_3.Properties.Resources.resources
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\OOP\lab 3\lab 3\obj\Debug\lab 3.csproj.GenerateResource.cache
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\OOP\lab 3\lab 3\obj\Debug\lab 3.csproj.CoreCompileInputs.cache
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\OOP\lab 3\lab 3\obj\Debug\lab 3.exe
+C:\Users\Druganow\YandexDisk\Хуйня что может пригодится Иле\OOP\lab 3\lab 3\obj\Debug\lab 3.pdb

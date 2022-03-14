@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Анимация", "Анимация\Анимация.csproj", "{B42C4367-0DEA-48BB-9CFF-D33A122545BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B42C4367-0DEA-48BB-9CFF-D33A122545BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B42C4367-0DEA-48BB-9CFF-D33A122545BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B42C4367-0DEA-48BB-9CFF-D33A122545BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B42C4367-0DEA-48BB-9CFF-D33A122545BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E35BCB86-AF2A-40E2-B301-ACD356CEA7BB}
+	EndGlobalSection
+EndGlobal
