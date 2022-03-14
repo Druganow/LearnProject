@@ -1,0 +1,29 @@
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/styles.css">
+    <title>Каталог товаров</title>
+</head>
+
+<body>
+
+    {{> menu}}
+    <h1>{{name}}</h1>
+
+    <div class="product-big">
+        <div class="product-img">
+            <img src="/img/{{img}}" style="max-height: 500;" alt="">
+        </div>
+        <div>
+            <p class="product-desc">{{desc}}</p>
+            <p class="product-price">{{price}} ₽</p>
+        </div>
+        <form action="/add_basket/{{item_id}}" method="POST">
+            <label>
+                 Количество: 
+                <input type="number" name="count" min="1" value="1" max="100">
+            </label>
+            <input type="submit" value="Добавить в корзину"/>
+        </form>
+    </div>
+
+</body>

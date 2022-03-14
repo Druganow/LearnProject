@@ -1,0 +1,60 @@
+<html> 
+	<head>
+		<meta charset="utf-8">
+  		<TITLE>Форма регистрации</TITLE>
+	</head> 
+	<body>
+		<form name="forma1" style=" text-align: center;">
+			<font size="6" face="Georgia">
+			<b>Регистрация абитуриента:</b><br>
+			</font>
+			Введите имя: <br>
+			<input type="text" name="name" size="20" maxlength="50"> <br><br>
+			Введите фамилию: <br>
+			<input type="text" name="surname" size="20" maxlength="50"><br><br>
+			Введите пароль:  <br>
+			<input type="password" name="password" size="10" maxlength="30" ><br><br>			
+			Выберите факультет: <br>
+			<select name="faculty" size="1"> 
+				<option selected value="ФКиФМН">ФКиФМН
+				<option value="ФАВТ">ФАВТ
+				<option value="ЭТФ">ЭТФ
+			</select><br><br> 
+			Выберите вид обучения: <br>
+			<input type="radio" name="type" value="очно" checked>очно
+			<input  type="radio"  name="type"  value="заочно">заочно <br><br>
+			Отметьте, нужно ли общежитие: <br>
+			<input type="checkbox" name="dormitory" checked>общежитие<br><br>
+			Дополнителная информация: <br>
+			<textarea rows="10" cols="45" name="text"></textarea><br><br>
+			<button type="submit" id="btn">Регистрация</button>
+		</form> 
+
+		<script>
+		 document.getElementById("btn").onclick = btnHandler;
+		  function btnHandler() {
+		  if(document.forma1.name.value==""||document.forma1.surname.value =="" ||document.forma1.password.value==""||document.forma1.text.value=="")
+           {
+				alert("Пожалуйста, заполните все поля");
+			}
+			else
+			{	var dormitory=""
+				if(document.forma1.dormitory.checked)
+					dormitory="да"
+				else
+					dormitory="нет"
+				var str="Имя: " + document.forma1.name.value+
+				"\nФамилия: " + document.forma1.surname.value +
+                "\nПароль: " + document.forma1.password.value +
+                "\nФакультет: " + document.forma1.faculty.value +
+                "\nВид обучения: " + document.forma1.type.value+
+				"\nОбщежитие: " + dormitory+
+				"\nДополнительная информация: " + document.forma1.text.value;
+                alert(str);
+			}
+            
+        }
+		 
+		</script>
+	</body> 
+</html> 

@@ -1,0 +1,37 @@
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="/styles.css">
+  <title>Каталог товаров</title>
+</head>
+
+
+
+{{> menu}}
+
+<h1>Корзина</h1>
+<div class="container">
+  {{basket}}
+</div>
+<p class="product-price" id="total_price" style="text-align: center;font-size: 30px;">Итоговая цена: {{total}} ₽</p>
+<form action="/clear_basket" method="POST">
+  <input type="submit" value="Очистить корзину" />
+</form>
+
+
+<form action="/make_order" method="POST">
+  Ваше имя:<br>
+  <input type="text" name="user_name" maxlength="20" required><br>
+  Ваш номер телефона в формате 81231231234:<br>
+  <input type="tel" name="user_tel" pattern="8[0-9]{10}" required><br><br>
+  <input type="submit" value="Заказать" />
+</form>
+
+</body>
+
+<script>
+    if (document.getElementById("basket_empty")) {
+      document.getElementById("total_price").style.visibility = 'hidden';
+      document.forms[0].style.visibility = 'hidden';
+      document.forms[1].style.visibility = 'hidden';
+    }
+</script>

@@ -1,0 +1,86 @@
+<html> 
+	<head>
+		<meta charset="utf-8">
+  		<TITLE>Тест</TITLE>
+	</head> 
+	<body>
+		<form name="forma1" style=" text-align: center;">
+			<font size="6" face="Georgia">
+			<b>Зрительный тест:</b><br>
+			</font>
+			<font size="4" face="Arial">
+			1.<br>
+			<img name = 'img' src = 'img/1.webp'></img><br>
+			Ответ: <br>
+			<input type="number" name="answer1" size="10" maxlength="30"> <br><br>
+			2.<br>
+			<img name = 'img' src = 'img/2.webp'></img><br>
+			Ответ: <br>
+			<input type="number" name="answer2" size="10" maxlength="30"> <br><br>
+			3.<br>
+			<img name = 'img' src = 'img/3.webp'></img><br>
+			Ответ: <br>
+			<input type="number" name="answer3" size="10" maxlength="30"> <br><br>
+			4. <br>
+			<img name = 'img' src = 'img/4.webp'></img><br>
+			Ответ: <br>
+			<input type="number" name="answer4" size="10" maxlength="30"> <br><br>
+			5.<br>
+			<img name = 'img' src = 'img/5.webp' ></img><br>
+			Ответ: <br>
+			<input type="number" name="answer5" size="10" maxlength="30"> <br><br>
+			<button type="submit" value="Готово" id="btn">Готово</button>
+			</font>
+		</form> 
+
+		<script>
+		 document.getElementById("btn").onclick = btnHandler;
+		function btnHandler() {
+			if(	document.forma1.answer1.value=='' ||document.forma1.answer2.value==''||
+				document.forma1.answer3.value==''||document.forma1.answer4.value==''||
+				document.forma1.answer5.value=='')
+				alert("Пожалуйста, заполните все поля");
+			else
+			{				
+				var res=0
+				if(document.forma1.answer1.value=='86')
+					res++
+				if(document.forma1.answer2.value=='5')
+					res++
+				if(document.forma1.answer3.value=='45')
+					res++
+				if(document.forma1.answer4.value=='7')
+					res++
+				if(document.forma1.answer5.value=='1')
+					res++
+				switch(res) { 
+					case 1: { 
+						alert("У Вас 1 балл из 5. "); 
+						break; 
+					} 
+					case 2: { 
+						alert("У Вас 2 балла из 5.");
+						break; 
+					} 
+					case 3: { 
+						alert("У Вас 3 балла из 5.");
+						break; 
+					} 
+					case 4: { 
+						alert("У Вас 4 балла из 5.");
+						break; 
+					} 
+					case 5: { 
+						alert("У Вас 5 баллов из 5.");
+						break; 
+					} 
+					default: { 
+						alert("У Вас 0 баллов из 5."); 
+					} 
+				} 
+			}     
+        }
+		 
+		</script>
+	</body> 
+</html> 

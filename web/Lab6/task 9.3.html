@@ -1,0 +1,33 @@
+ <html> 
+	<head>
+		<meta charset="utf-8">
+  		<TITLE>Задание 9.3</TITLE>
+	</head> 
+	<body>
+		<form name="f1">
+			<label>Дата и время: </label>
+			<input type="datetime-local" id="localdate" name="date"/>
+			<input type="button" value="Расчитать" onclick="show_time()">
+			<div id="dif_time">Разница:</h3>
+		</form>
+		<script>
+			function show_time()
+			{
+				tb=new Date(f1.localdate.value)
+				t=new Date()
+				diff= new Date(tb.getTime()-t.getTime())
+				if(diff>0)
+				{
+					objHead1=document.all["dif_time"] 
+					objHead1.innerText="Разница "+(diff.getDay()+"."+diff.getMonth()+"." +(diff.getYear()-70)+" "+diff.getHours()+":"+diff.getMinutes())
+				}
+				else
+				{
+					objHead1=document.all["dif_time"] 
+					objHead1.innerText="До прошлого время не измерить(("
+				}
+			}
+		</script>
+		
+	</body> 
+</html> 

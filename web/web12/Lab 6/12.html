@@ -1,0 +1,57 @@
+﻿<html> 
+	<head>
+		<meta charset="utf-8">
+  		<TITLE>Задание 12</TITLE>
+	</head>
+	<script> 
+		posx = posy = x = y = 0;
+posx1 = posy1 = 1000;
+
+
+mouseCoords = (e)=>{
+      x = e.pageX; // Координата X курсора
+      y = e.pageY; // Координата Y курсора
+   }
+
+ setInterval(()=>{
+	
+      posx = Math.floor((49 * posx + x)/50);
+      posy = Math.floor((49 * posy + y)/50);     
+      block.style.left = posx +'px';
+      block.style.top = posy +'px'; 
+      posx1 = Math.floor((99 * posx1 + x)/100);
+      posy1 = Math.floor((99 * posy1 + y)/100);     
+      block1.style.left = posx1 +'px';
+      block1.style.top = posy1 +'px';
+	X.value="x:"+x+" y:"+y;
+
+ },5);
+	</script>
+	<style>
+		#block {
+  		width: 50px;
+ 		height: 50px;
+ 		background-color: green;
+  	 	font-size: xx-small;
+  		position: absolute;
+  		border-radius: 25px;
+		}
+
+		#block1 {
+ 		 width: 30px;
+  		height: 30px;
+  		background-color: red;
+  		font-size: xx-small;
+  		position: absolute;
+		}
+body {
+  background-color: black;
+}
+	</style> 
+</head> 
+	<body onmousemove="mouseCoords(event)"> 
+<input id="X" maxlength="25" size="20" value="jkopj">
+		<div id="block"></div>
+<div id="block1"></div>
+	</body> 
+</html> 

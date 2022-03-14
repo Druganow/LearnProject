@@ -1,0 +1,25 @@
+<html> 
+	<head>
+		<meta charset="utf-8">
+  		<TITLE>Задание 9.2</TITLE>
+
+	<script> 
+		i=0 
+		function ShowNextImage() 
+		{  
+		
+			img.src="img/"+i + ".jpg" 
+			i++ 
+			setTimeout ("ShowNextImage()",1000) 
+			if ((i>4)) i=0 
+		} 
+	</script> 
+</head> 
+	<body> 
+		
+		<img src='img/0.jpg' name='img' width="100%" height="100%"></img> 
+	<script> 
+		ShowNextImage() 
+	</script>  
+	</body> 
+</html> 

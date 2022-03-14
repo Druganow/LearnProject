@@ -1,0 +1,38 @@
+<html> 
+	<head> 
+		<meta charset="utf-8">
+  		<TITLE>2</TITLE>
+	</head> 
+	<body>
+		<div id="id1" style="position:absolute;left:10px;width:120px;">Бегающий текст</div>
+
+		<script>
+		const pageWidth = document.documentElement.scrollWidth
+		var x = false;
+		function beg(x)
+		{		
+			if(parseInt(id1.style.left)+ parseInt(id1.style.width)>=pageWidth)
+			{
+				x=true
+				
+			}
+			if(parseInt(id1.style.left)<0)
+			{
+				x=false
+			}
+			if(x)
+			{
+				id1.style.left=parseInt(id1.style.left) - 20 + 'px';
+			}
+			else
+			{
+				id1.style.left=parseInt(id1.style.left) + 20 + 'px';
+			}
+			
+		setTimeout('beg('+x+')',100)
+		}
+		
+		beg()
+		</script>
+	</body> 
+</html> 

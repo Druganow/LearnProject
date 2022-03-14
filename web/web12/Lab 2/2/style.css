@@ -1,0 +1,32 @@
+	body{
+		background-image: url(https://st.depositphotos.com/1244201/2459/i/600/depositphotos_24595047-stock-photo-white-abstract-linen-background.jpg);
+		color: black;
+	}
+	a:link{
+		color: blue;
+	}
+	a:visited{
+		color: red;
+	}
+	p{
+		text-align: left;
+		font-family: Times;
+		line-height: 20px;
+		text-indent: 10px;
+	}
+	.title{
+		text-align: center;
+		font-size: 50px;
+		color: blue;
+		text-indent: 0;
+	}
+	.epigraph{
+		color: green;
+		font-style: italic;
+		text-indent: 0;
+		text-align: right;
+	}
+
+	
+	
+

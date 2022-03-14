@@ -1,0 +1,126 @@
+<html>
+<head>
+<style>
+#menudown {
+    margin:0;
+    padding:0;
+    list-style:none;
+}
+#menudown li {
+    display:block;
+    width:130px;
+    background:#000;
+    position:relative;
+	border-left:#FFF 1px solid;
+    border-bottom:#FFF 1px solid;
+} 
+#menudown li a {
+    display:block;
+    padding:10px;
+	color:#fff;
+	text-align:center;
+    text-decoration:none;
+}
+#menudown li a:hover {
+	background:#900;
+}
+#menudown ul {
+    position:absolute;
+    left:130;
+    display:none;
+    margin:0;
+    padding:0;
+    list-style:none;
+}
+#menudown ul li {
+    width:130px;
+}
+#menudown ul a {
+    display:block;
+    padding:10px;
+    color:#fff;
+}
+.rrr {color:red}
+#container {
+margin: 0 auto;
+width: 152px;
+}
+#panel {
+display: none;
+}
+.button {
+width: 152px;
+height: 40px;
+border-top: #333 dotted 1px;
+text-align: center;
+}
+.buttontext {
+font-weight: bold;
+font-size: 1.2em;
+text-shadow: 1px 1px 1px #666;
+}
+</style>
+<script type="text/javascript">
+$(document).ready(function(){
+$(".buttontext").click(function(){
+$("#panel").slideToggle("normal"); return false;
+});
+});
+$('#menudown li').hover(function(){
+	$('.menudown2', this).slideDown(100);	
+},function(){
+	$('.menudown2', this).slideUp(100);			   
+});
+$('.menudown2 li').hover(function(){
+	$('.menudown3', this).slideDown(100);	
+},function(){
+	$('.menudown3', this).slideUp(100);			   
+});
+</script>
+
+</head>
+<body>
+<div id="container">
+<div id="panel">
+<ul id="menudown">
+    <li><a href="javascript:void(0);">Меню 01</a></li>
+    <li>
+        <ul class="menudown2">
+            <li><a href="#">Ссылка 01</a></li>
+            <li>
+                <ul class="menudown3">
+                    <li><a href="#">Ссылка 08</a></li>
+                    <li><a href="#">Ссылка 09</a></li>
+                    <li><a href="#">Ссылка 10</a></li>
+                </ul>
+            <a href="javascript:void(0);">Ссылка 02 -></a></li>
+            <li><a href="#">Ссылка 03</a></li>
+        </ul>
+    <a href="javascript:void(0);">Меню 02 -></a></li>
+    <li>
+        <ul class="menudown2">
+            <li>
+                <ul class="menudown3">
+                    <li><a href="#">Ссылка 11</a></li>
+                    <li><a href="#">Ссылка 12</a></li>
+                </ul>
+            <a href="javascript:void(0);">Ссылка 04 -></a></li>
+            <li><a href="#">Ссылка 05</a></li>
+            <li>
+                <ul class="menudown3">
+                    <li><a href="#">Ссылка 13</a></li>
+                    <li><a href="#">Ссылка 14</a></li>
+                </ul>
+            <a href="javascript:void(0);">Ссылка 06 -></a></li>
+            <li><a href="#">Ссылка 07</a></li>
+        </ul>
+    <a href="javascript:void(0);">Меню 03 -></a></li>
+    <li><a href="javascript:void(0);">Меню 04</a></li>
+</ul>
+</div>
+<p class="button">
+<a href="#" class="buttontext">Справка</a>
+</p>
+</div>
+</body>
+</html>

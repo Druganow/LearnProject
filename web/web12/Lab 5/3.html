@@ -1,0 +1,110 @@
+<html>
+     <head>
+          <meta charset="utf-8">
+          <link rel="stylesheet" type="text/css" href="style.css" />
+          <title>Калькулятор</title>
+     </head>
+     <body>
+          <form name="calc" class="wrapper">
+				
+                <table class="main">
+                    <tr class="display">
+                         <td colspan="2"><input type="text" name="input1"></td>
+							<td colspan="2"><input type="text" name="input2"></td>
+                    </tr >
+                    <tr class="buttons">
+                         <td><input type="button" value="-" OnClick="res('-')"></td>
+						<td><input type="button" value="+" OnClick="res('+')"></td>
+                         <td><input type="button" value="x" OnClick="res('*')"></td>
+                         <td><input type="button" value="/" OnClick="res('/')"></td>
+						 <td><input type="button" value="√" OnClick="res('sqrt')"></td>
+						 
+                    </tr>
+                    <tr class="buttons">
+                        <td><input type="button" value="cos" OnClick="res('cos')"></td>
+                         <td><input type="button" value="sin" OnClick="res('sin')"></td>
+                         <td><input type="button" value="ln" OnClick="res('ln')"></td>
+                         <td><input type="reset" value="c" OnClick="calc.input1.value = '',calc.input1.value = '', calc.result.value = ''"></td>
+                        <td><input type="button" value="pow" OnClick="res('pow')"></td>
+						 
+                    </tr>
+                    
+					 <tr >
+                         <td colspan="2">Ответ:</td>
+						 <td colspan="3"><input type="number" class="output" name="result"></td>
+
+                    </tr >
+               <table>
+			   
+          </form>
+	<script>
+			calc.result.disabled = 1
+			function number(num)
+			{
+				if(!isNaN(num) && num!="")		
+					return true;				
+				else
+				{
+					alert("Неверное значение")
+					return false;
+					}
+			}
+			function res(s)
+			{	
+				if(number(calc.input1.value))
+				{
+					switch(s)
+					{
+						case 'cos': {
+						
+							calc.result.value = Math.cos(calc.input1.value); 
+							break; 
+						} 
+						case 'sin': { 
+							calc.result.value = Math.sin(calc.input1.value)
+							break; 
+						} 
+						case 'ln': { 
+							calc.result.value = Math.log(calc.input1.value) 
+							break; 
+						}
+						case 'sqrt': { 
+							calc.result.value = Math.sqrt(calc.input1.value)
+							break; 
+						} 	
+					}
+				}
+				if(s!='cos'&&s!='sin'&&s!='ln'&&s!='sqrt')
+				{
+				if(number(calc.input2.value))
+				{
+					switch(s)
+					{
+					case '+': {
+						
+						calc.result.value = parseFloat(calc.input1.value)+parseFloat(calc.input2.value); 
+						break; 
+					} 
+					case '-': { 
+						calc.result.value = parseFloat(calc.input1.value)-parseFloat(calc.input2.value); 
+						break; 
+					} 
+					case '/': { 
+						calc.result.value = parseFloat(calc.input1.value)/parseFloat(calc.input2.value); 
+						break; 
+					}
+					case '*': { 
+						calc.result.value = parseFloat(calc.input1.value)*parseFloat(calc.input2.value); 
+						break; 
+					} 
+					case 'pow': { 
+						calc.result.value = Math.pow(calc.input1.value,calc.input2.value);
+						break; 
+					}
+					}
+				}
+				}
+			}
+		  </script>
+	</body>
+</html>

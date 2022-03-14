@@ -1,0 +1,14 @@
+	.glow{
+		font-size: 50px;
+		color: blue;
+		text-shadow: 7px 2px 2px red, 0 0 50px green; 
+	}
+	.horizont{
+		transform: rotate(180deg);
+	}
+	.invert{
+		filter: invert(100%);
+	}
+	
+	
+

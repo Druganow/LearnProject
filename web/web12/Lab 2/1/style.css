@@ -1,0 +1,21 @@
+	.red{
+	font-family: Arial;
+	font-size: 100px;
+    color: red;
+	position: absolute;
+	left: 0px;
+   }
+	.dark_red{
+	font-family: Arial;
+	font-size: 100px;
+    color: DarkRed;
+	position: absolute;
+	left: 8px;
+   }
+	.silver{
+	font-family: Arial;
+	font-size: 100px;
+    color: Silver;
+	position: absolute;
+	left: 16px;
+   }

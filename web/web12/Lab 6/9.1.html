@@ -1,0 +1,22 @@
+﻿<html> 
+	<head>
+		<meta charset="utf-8">
+  		<TITLE>Задание 9.1</TITLE>
+	</head> 
+	<script> 
+		function person_in() 
+		{ 
+			t1=new Date() 
+			
+		} 
+		function person_out() 
+		{ 
+			t2=new Date() 
+			t3=t2.getTime()-t1.getTime() 
+			t3=Math.round(t3/1000) 
+			alert("Вы были на сайте " + t3+ " c") 
+		} 
+	</script> 
+	<body onload="person_in()" onunload="person_out()"> 
+	</body> 
+</html> 
